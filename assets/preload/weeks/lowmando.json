@@ -1,0 +1,77 @@
+{
+	"storyName": "dead air",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"under-the-tree",
+			"lomando",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"comatose",
+			"lomando",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"fancy-island",
+			"lomando",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"big-eater",
+			"lomando",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"shelter",
+			"lomando",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"remembered",
+			"lomando",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "dead air",
+	"hiddenUntilUnlocked": false
+}
