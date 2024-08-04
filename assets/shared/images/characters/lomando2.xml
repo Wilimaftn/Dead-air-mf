@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lomando2.png" width="7668" height="600">
+	<SubTexture name="frickinohioblud0000" x="0" y="0" width="450" height="275" frameX="0" frameY="0" frameWidth="450" frameHeight="276" />
+	<SubTexture name="heartt0000" x="2300" y="0" width="297" height="281" frameX="0" frameY="0" frameWidth="297" frameHeight="281" />
+	<SubTexture name="heartt0001" x="2300" y="0" width="297" height="281" frameX="0" frameY="0" frameWidth="297" frameHeight="281" />
+	<SubTexture name="heartt0002" x="2598" y="0" width="297" height="281" frameX="0" frameY="0" frameWidth="297" frameHeight="281" />
+	<SubTexture name="heartt0003" x="2598" y="0" width="297" height="281" frameX="0" frameY="0" frameWidth="297" frameHeight="281" />
+	<SubTexture name="heartt0004" x="2895" y="0" width="297" height="281" frameX="0" frameY="0" frameWidth="297" frameHeight="281" />
+	<SubTexture name="heartt0005" x="2895" y="0" width="297" height="281" frameX="0" frameY="0" frameWidth="297" frameHeight="281" />
+	<SubTexture name="heartt0006" x="3193" y="0" width="297" height="281" frameX="0" frameY="0" frameWidth="297" frameHeight="281" />
+	<SubTexture name="heartt0007" x="3193" y="0" width="297" height="281" frameX="0" frameY="0" frameWidth="297" frameHeight="281" />
+	<SubTexture name="ohiochudster0000" x="450" y="0" width="462" height="276" frameX="0" frameY="0" frameWidth="463" frameHeight="276" />
+	<SubTexture name="ohiochudster0001" x="450" y="0" width="462" height="276" frameX="0" frameY="0" frameWidth="463" frameHeight="276" />
+	<SubTexture name="ohiochudster0002" x="912" y="0" width="462" height="276" frameX="0" frameY="0" frameWidth="463" frameHeight="276" />
+	<SubTexture name="ohiochudster0003" x="912" y="0" width="462" height="276" frameX="0" frameY="0" frameWidth="463" frameHeight="276" />
+	<SubTexture name="ohiochudster0004" x="1837" y="0" width="463" height="276" frameX="0" frameY="0" frameWidth="463" frameHeight="276" />
+	<SubTexture name="ohiochudster0005" x="1375" y="0" width="462" height="276" frameX="0" frameY="0" frameWidth="463" frameHeight="276" />
+	<SubTexture name="ohiochudster0006" x="1375" y="0" width="462" height="276" frameX="0" frameY="0" frameWidth="463" frameHeight="276" />
+	<SubTexture name="superohio0000" x="3490" y="0" width="343" height="300" frameX="0" frameY="0" frameWidth="343" frameHeight="300" />
+</TextureAtlas>
